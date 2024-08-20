@@ -1,7 +1,7 @@
 ![carbon](https://github.com/user-attachments/assets/afde4aa3-fd22-4d51-885b-0e6fe7ce9f77)
 
-<h1 align="center">Hi 👋, I'm Dzulfikar Omar Yasir</h1>
-<h3 align="center">Foucsed on frontend development</h3>
+<h1 align="center">" Hi There👋, I'm Dzulfikar Omar Yasir. "</h1>
+<h3 align="center">Focused on frontend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzulfikar2403&label=Profile%20views&color=0e75b6&style=flat" alt="dzulfikar2403" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dzulfikar2403@gmail.com**
 
-- ⚡ Fun fact **sometimes people say im absurd.**
+- ⚡ Fun fact **sometimes people say i'm absurd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
