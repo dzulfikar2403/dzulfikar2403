@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=dzulfikar2403&icon=8&color=2)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **NEXT JS 15 App-Router**
 
 - 💬 Ask me about **React JS, MERN**
 
