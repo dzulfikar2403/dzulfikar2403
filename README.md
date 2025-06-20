@@ -33,8 +33,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dzulfikar2403&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=dzulfikar2403&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=dzulfikar2403&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzulfikar2403&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=dzulfikar2403&theme=github_dark&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
