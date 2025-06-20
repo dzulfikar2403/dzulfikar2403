@@ -32,7 +32,9 @@
 <!-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dzulfikar2403&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzulfikar2403&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=dzulfikar2403&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzulfikar2403&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
