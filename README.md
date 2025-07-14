@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT JS 15 App-Router**
 
-- 💬 Ask me about **React JS, NEXT JS**
+- 💬 Ask me about **React JS, NEXT JS, PostgresQL**
 
 - 📫 How to reach me **dzulfikar2403@gmail.com**
 
