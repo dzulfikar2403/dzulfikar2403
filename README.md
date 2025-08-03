@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=dzulfikar2403&icon=8&color=2)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **PostgresQL**
+- 🌱 I’m currently learning **Python, PostgresQL**
 
 - 💬 Ask me about **React JS, NEXT JS, PostgresQL**
 
