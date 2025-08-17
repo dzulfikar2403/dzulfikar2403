@@ -1,13 +1,13 @@
 
 
 <h1 align="center">" Hi There👋, I'm Dzulfikar Omar Yasir. "</h1>
-<h3 align="center">Focused on web development</h3>
+<h3 align="center">Focused on Data Analyst</h3>
 
 [![](https://visitcount.itsvg.in/api?id=dzulfikar2403&icon=8&color=2)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Python, PostgresQL**
+- 🌱 I’m currently learning **Data Analyst**
 
-- 💬 Ask me about **React JS, NEXT JS, PostgresQL**
+- 💬 Ask me about **PostgresQL, NEXT JS**
 
 - 📫 How to reach me **dzulfikar2403@gmail.com**
 
